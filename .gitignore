@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.env.*
+kaggle.json
+brain_tumor_results/
+data/
+Training/
+Testing/
+*.pt
+*.pth
+*.zip
